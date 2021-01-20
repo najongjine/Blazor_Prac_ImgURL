@@ -9,7 +9,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Prac_ImgURL.dll": "sha256-1dhJOwefx+M4SN+ER8wU5INcbb2Ko5SI3GnY7lDWTSY=",
+      "Prac_ImgURL.dll": "sha256-d2POGV5i\/cwFDZy9lgxA+8deO9TY9ASfuZtQfxM\/6xU=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -68,7 +68,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Prac_ImgURL.pdb": "sha256-aZGiBDCAxv0+17aI1PP79IOPVgPoKhlWKYg8MC20pRU="
+      "Prac_ImgURL.pdb": "sha256-ZTnhbKWReYd2tUWU3WGi3ukp17vO6ca+nKq0bJEvboQ="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

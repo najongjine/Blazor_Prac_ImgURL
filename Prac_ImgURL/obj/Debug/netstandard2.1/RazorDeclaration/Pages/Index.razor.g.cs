@@ -102,6 +102,10 @@ using Prac_ImgURL.Shared;
             strImg = "img/default.png";
         }
     }
+    private async void changeStrImgOnError()
+    {
+        strImg = "img/on_error.png";
+    }
 
 #line default
 #line hidden

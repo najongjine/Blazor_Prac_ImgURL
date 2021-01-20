@@ -388,6 +388,6 @@ D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\Prac_ImgURL.R
 D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\Prac_ImgURL.csproj.CopyComplete
 D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\Prac_ImgURL.dll
 D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\Prac_ImgURL.pdb
-D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\integrity\1dhJOwefx_M4SN_ER8wU5INcbb2Ko5SI3GnY7lDWTSY=.hash
-D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\integrity\aZGiBDCAxv0_17aI1PP79IOPVgPoKhlWKYg8MC20pRU=.hash
-D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\integrity\W01T7MerGUdT2EJn1ivR73BQtgB94QEoqIM-5ms_Ujc=.hash
+D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\integrity\d2POGV5i-cwFDZy9lgxA_8deO9TY9ASfuZtQfxM-6xU=.hash
+D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\integrity\ZTnhbKWReYd2tUWU3WGi3ukp17vO6ca_nKq0bJEvboQ=.hash
+D:\MyWork\DotNet5\Prac_ImgURL\Prac_ImgURL\obj\Debug\netstandard2.1\integrity\O89hZuJuhcfxtoK50nRrY8zSS-mIM5Jjp8HnnPjblpc=.hash
