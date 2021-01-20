@@ -1,0 +1,36 @@
+﻿@page "/"
+
+<h1>Get Img By URL</h1>
+
+<section>
+    <article>
+        <img src="@strImg"/>
+    </article>
+</section>
+<section>
+    <article>
+        <form @onsubmit="changeStrImg">
+            <span>
+                write img URL and press enter:
+            </span>
+            <span>
+                <input @bind="strImg" />
+            </span>
+            <span>
+                <button>submit</button>
+            </span>
+        </form>
+    </article>
+</section>
+
+@code{
+    private String strImg = "img/default.png";
+
+    private async void changeStrImg()
+    {
+        if(String.IsNullOrEmpty(strImg) || String.IsNullOrWhiteSpace(strImg))
+        {
+            strImg = "img/default.png";
+        }
+    }
+}
